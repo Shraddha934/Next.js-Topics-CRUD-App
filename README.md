@@ -25,9 +25,8 @@ This is a simple CRUD (Create, Read, Update, Delete) application built using **N
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Shraddha934/Next.js-Topics-CRUD-App.git
-   cd your-repo-name
-   
+   git clone https://github.com/Shraddha934/Next.js-Topics-CRUD-App
+  
 2.Install dependencies
   npm install
   
